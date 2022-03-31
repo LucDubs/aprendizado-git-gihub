@@ -1,0 +1,7 @@
+O que são as branchs?
+
+- Branchs (ramos) servem para desenvolvermos features isoladas
+- A branch master é a principal
+- Podemos criar uma branch 1, onde realizamos alterações no projeto, mas elas
+  ficam APENAS nesta branch.
+- E aí, se quisermos fazer com que as alterações se tornem oficiais em outras branchs e na master (principal), podemos junta-las usando o comando git merge.
