@@ -1,0 +1,5 @@
+- Podemos simplesmente baixar o GitBash.
+- O que é o GitBash? R = É uma ferramenta da Microsoft para poder trabalhar com o Git através do terminal de comandos.
+- Existem outras como o Ubuntu (que pode ser instalado no Windows através de um emulador de Linux), o próprio CMD (prompt de comando do Windows), etc...
+
+Depois de instalado, apenas execute o mesmo e pronto!

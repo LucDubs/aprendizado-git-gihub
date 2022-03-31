@@ -1,3 +1,10 @@
 Olá, seja bem vindo você que tirou seu tempo para ler este arquivo!
 O foco principal desse projeto/exercício é resumir os conteúdos que aprendi ao utilizar o Git e o GitHub,
 na prática, e utilizando a pŕópria ferramenta para isso, vamos lá!
+
+Veremos sobre:
+- Introdução ao Git e GitHub
+- Instalando e configurando
+- Principais comandos
+- O que são branchs
+- Conectando ao GitHub
