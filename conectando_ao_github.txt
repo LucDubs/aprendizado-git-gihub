@@ -6,7 +6,7 @@ Para conectar sua máquina local a um repositório do seu GitHub, podemos:
 Já no terminal (darei um exemplo de um repositório aqui do meu GitHub mesmo):
 - git remote add origin + link copiado. Exemplo:
 - git remote add origin https://github.com/LucDubs/voyager1.git
-obs: (Porém, poderia ser o link para o GitLabs, ou o BitBucket [q faz parecido com o GitHub], o importante é definir uma origem.)
+obs: (Porém, poderia ser o link para o GitLabs, ou o BitBucket [q fazem parecido com o GitHub...], o importante é definir uma origem.)
 
 Pronto, sua máquina está conectada! :)
 
